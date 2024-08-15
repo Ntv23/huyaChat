@@ -40,5 +40,5 @@ Chat App is a React Native-based application that offers features such as user r
    npm install
    npx expo start
    
-## Contact
+# Contact
 If you have any questions or need support, please contact me via email: ngthaovy23@gmail.com
