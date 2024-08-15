@@ -4,7 +4,9 @@
 
 Chat App is a React Native-based application that offers features such as user registration, login, password reset, 1-on-1 chatting, and joining chat rooms. The app uses various libraries and technologies to ensure a smooth and convenient user experience.
 
-![App Screenshot](path-to-your-screenshot.png)
+## Preview
+
+![preview](https://github.com/user-attachments/assets/b0ccc734-d11a-4955-9bef-fd034d1edc3b)
 
 ## Features
 
