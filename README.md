@@ -20,13 +20,15 @@ Chat App is a React Native-based application that offers features such as user r
 
 ## Technologies Used
 
-- **React Native**: The main framework for mobile app development.
-- **Firebase Authentication**: ![Firebase Authentication Icon](https://img.icons8.com/ios-filled/50/000000/firebase.png) Handles user registration, login, and password reset.
-- **Firebase Storage**: ![Firebase Storage Icon](https://img.icons8.com/ios-filled/50/000000/firebase-storage.png) Stores profile images and chat data.
-- **Lottie**: ![Lottie Icon](https://img.icons8.com/ios-filled/50/000000/lottie.png) Provides animations for data loading.
-- **Image Picker**: ![Image Picker Icon](https://img.icons8.com/ios-filled/50/000000/image.png) Allows image selection from the gallery or camera.
-- **Gifted Chat**: ![Gifted Chat Icon](https://img.icons8.com/ios-filled/50/000000/chat.png) Library for the chat interface.
-- **react-native-vector-icons** and **@expo/vector-icons**: ![React Native Vector Icons](https://img.icons8.com/ios-filled/50/000000/vector-icons.png) Used for icons within the app.
+- **React Native**: ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black) The main framework for mobile app development.
+- **Firebase Authentication**: ![Firebase Authentication](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) Handles user registration, login, and password reset.
+- **Firebase Storage**: ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-FFCA28?style=flat&logo=firebase&logoColor=white) Stores profile images and chat data.
+- **Lottie**: ![Lottie](https://img.shields.io/badge/Lottie-FF2D55?style=flat&logo=lottie&logoColor=white) Provides animations for data loading.
+- **Image Picker**: ![Image Picker](https://img.shields.io/badge/Image%20Picker-000000?style=flat&logo=image&logoColor=white) Allows image selection from the gallery or camera.
+- **Gifted Chat**: ![Gifted Chat](https://img.shields.io/badge/Gifted%20Chat-000000?style=flat&logo=chat&logoColor=white) Library for the chat interface.
+- **React Native Vector Icons**: ![React Native Vector Icons](https://img.shields.io/badge/React%20Native%20Vector%20Icons-000000?style=flat&logo=react&logoColor=white) Used for icons within the app.
+- **Expo Vector Icons**: ![Expo Vector Icons](https://img.shields.io/badge/Expo%20Vector%20Icons-000000?style=flat&logo=expo&logoColor=white) Provides additional icon sets.
+
 
 ## Installation
 
