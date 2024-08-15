@@ -10,8 +10,8 @@ Chat App is a React Native-based application that offers features such as user r
 
 - **Registration and Login**: ![Registration Icon](https://img.icons8.com/ios-filled/50/000000/user.png) User authentication via email using Firebase Authentication.
 - **Password Reset**: ![Password Reset Icon](https://img.icons8.com/ios-filled/50/000000/forgot-password.png) Password recovery via email.
-- **1-on-1 Chat**: ![Chat Icon](https://img.icons8.com/ios-filled/50/000000/chat.png) Send and receive messages between users.
-- **Join Chat Rooms**: Participate in and chat within different rooms.
+- **1-on-1 Chat**: ![Chat Icon](https://img.icons8.com/ios-filled/50/000000/chat.png) Add friend, send and receive messages between users.
+- **Join Chat Rooms**: Join in and chat within different rooms.
 - **Change Avatar and Status**: ![Avatar Icon](https://img.icons8.com/ios-filled/50/000000/user-male.png) Update user profile picture and status.
 - **Image Picker**: ![Image Picker Icon](https://img.icons8.com/ios-filled/50/000000/image.png) Use Image Picker and Media library to choose images from the gallery or take new ones.
 - **Loading Animation**: ![Loading Icon](https://img.icons8.com/ios-filled/50/000000/loading.png) Display data loading animations using Lottie.
