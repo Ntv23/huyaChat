@@ -27,13 +27,12 @@ Chat App is a React Native-based application that offers features such as user r
 - **Image Picker**: ![Image Picker](https://img.shields.io/badge/Image%20Picker-000000?style=flat&logo=image&logoColor=white) Allows image selection from the gallery or camera.
 - **Gifted Chat**: ![Gifted Chat](https://img.shields.io/badge/Gifted%20Chat-000000?style=flat&logo=chat&logoColor=white) Library for the chat interface.
 - **React Native Vector Icons**: ![React Native Vector Icons](https://img.shields.io/badge/React%20Native%20Vector%20Icons-000000?style=flat&logo=react&logoColor=white) Used for icons within the app.
-- **Expo Vector Icons**: ![Expo Vector Icons](https://img.shields.io/badge/Expo%20Vector%20Icons-000000?style=flat&logo=expo&logoColor=white) Provides additional icon sets.
+- **Expo Vector Icons**: Provides additional icon sets.
 
 
 
 ## Installation
-
-1. **Clone the Repository:**
+**Clone and run the Repository:**
 
    ```bash
    git clone https://github.com/Ntv23/huyaChat.git
@@ -41,5 +40,5 @@ Chat App is a React Native-based application that offers features such as user r
    npm install
    npx expo start
    
-##Contact
+## Contact
 If you have any questions or need support, please contact me via email: ngthaovy23@gmail.com
