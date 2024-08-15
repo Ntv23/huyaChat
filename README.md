@@ -8,8 +8,8 @@ Chat App is a React Native-based application that offers features such as user r
 
 ## Features
 
-- **Registration and Login**: ![Registration Icon](https://img.icons8.com/ios-filled/50/000000/registration.png) User authentication via email using Firebase Authentication.
-- **Password Reset**: ![Password Reset Icon](https://img.icons8.com/ios-filled/50/000000/reset.png) Password recovery via email.
+- **Registration and Login**: ![Registration Icon](https://img.icons8.com/ios-filled/50/000000/user.png) User authentication via email using Firebase Authentication.
+- **Password Reset**: ![Password Reset Icon](https://img.icons8.com/ios-filled/50/000000/forgot-password.png) Password recovery via email.
 - **1-on-1 Chat**: ![Chat Icon](https://img.icons8.com/ios-filled/50/000000/chat.png) Send and receive messages between users.
 - **Join Chat Rooms**: ![Chat Room Icon](https://img.icons8.com/ios-filled/50/000000/chat-room.png) Participate in and chat within different rooms.
 - **Change Avatar and Status**: ![Avatar Icon](https://img.icons8.com/ios-filled/50/000000/user-male.png) Update user profile picture and status.
@@ -28,6 +28,7 @@ Chat App is a React Native-based application that offers features such as user r
 - **Gifted Chat**: ![Gifted Chat](https://img.shields.io/badge/Gifted%20Chat-000000?style=flat&logo=chat&logoColor=white) Library for the chat interface.
 - **React Native Vector Icons**: ![React Native Vector Icons](https://img.shields.io/badge/React%20Native%20Vector%20Icons-000000?style=flat&logo=react&logoColor=white) Used for icons within the app.
 - **Expo Vector Icons**: ![Expo Vector Icons](https://img.shields.io/badge/Expo%20Vector%20Icons-000000?style=flat&logo=expo&logoColor=white) Provides additional icon sets.
+
 
 
 ## Installation
