@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "HuYa",
+    "slug": "huyachat-project",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/HuYa1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "././assets/HuYa1.png",
+      "resizeMode": "native",
+      "backgroundColor": "#891C00"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ntv.huyachat",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Ứng dụng này cần quyền truy cập vào ảnh của bạn để cho phép bạn tải ảnh hồ sơ lên.",
+        "NSPhotoLibraryUsageDescription": "Ứng dụng này cần quyền truy cập vào ảnh của bạn để cho phép bạn tải ảnh hồ sơ lên."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/HuYa1.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.ntv.huyachat"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "plugins": [
+      "expo-secure-store",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Ứng dụng này cần quyền truy cập vào ảnh của bạn để cho phép bạn tải ảnh hồ sơ lên."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "32ea7bd7-d84b-4b87-bd8c-ff571ff96ac3"
+      }
+    }
+  }
+}
